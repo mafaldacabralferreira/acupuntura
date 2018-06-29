@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#d1a922"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [
@@ -66,7 +68,7 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#e4d295"
+              "color": "#d1a922"
             },
             "H3": {
               "color": "#232323"
